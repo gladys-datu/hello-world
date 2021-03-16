@@ -1,1 +1,5 @@
+I hope a conflict comes forwards.
+
 Hi! This is file A
+
+
