@@ -1,1 +1,6 @@
 Hi! This is file A
+
+Hi This is  a great file
+
+:x
+
